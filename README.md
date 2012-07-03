@@ -1,6 +1,6 @@
 Juy
 ===
 
-Juy is a free app that containing all code that i have to share and .
+Juy is part of my work that containing all code that i have to share .
 
 Juy-Team's Homepage : http://www.just-for-you.org
